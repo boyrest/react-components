@@ -1,7 +1,22 @@
 {
   "private": false,
   "name": "react-components",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "description": "react components",
+  "author": "baron zhu",
+  "license": "MIT",
+  "keywords": [
+    "React",
+    "Component"
+  ],
+  "homepage": "https://github.com/boyrest/react-components",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boyrest/react-components.git"
+  },
+  "files": [
+    "es"
+  ],
   "scripts": {
     "start": "dumi dev",
     "docs:build": "dumi build",
